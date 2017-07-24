@@ -1,0 +1,25 @@
+
+body {
+    font-family: Ariel;
+	margin-left: 5%;
+    margin-right: 5%;
+}
+header, footer{
+    text-align: center;
+}
+header{
+    text-transform: uppercase;
+    font-family: fantasy
+}
+a {
+    text-decoration: none;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.backtomap{
+    text-align: left;
+    padding:0;
+}
+footer{
+    font-size:65%;
+}
